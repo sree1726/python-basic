@@ -1,0 +1,5 @@
+specVersion: 0.35.0
+name: python-basic
+runtime: python
+created: 2025-03-27T10:18:52.805418206Z
+invoke: cloudevent
